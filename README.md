@@ -11,4 +11,5 @@ enjoy my taskbar
 by executable
 
 tg - executable
+
 discord - executab1e
