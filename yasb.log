@@ -1,0 +1,492 @@
+2026-03-17 12:16:24,425 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 12:16:24,426 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 12:16:24,426 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 12:16:24,583 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 12:16:24,583 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 12:16:24,586 [INFO] [MainThread] [root/config.py:59]: Created default config file at C:\Users\executable\.config\yasb\config.yaml
+2026-03-17 12:16:24,607 [INFO] [MainThread] [root/config.py:73]: Created default stylesheet at C:\Users\executable\.config\yasb\styles.css
+2026-03-17 12:16:25,495 [ERROR] [MainThread] [root/weather.py:41]: API key or location is missing. Please provide a valid API key and location.
+2026-03-17 12:16:25,505 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 12:16:25,562 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 12:16:26,059 [ERROR] [MainThread] [root/weather.py:41]: API key or location is missing. Please provide a valid API key and location.
+2026-03-17 12:16:26,101 [INFO] [MainThread] [root/bar_manager.py:88]: Starting SystemEventListener...
+2026-03-17 12:16:26,101 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-17 12:16:26,102 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-17 12:16:26,103 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 12:16:26,103 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 12:16:26,370 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-f969e48e-21e1-11f1-8e0e-cd17ba6cf7de
+2026-03-17 12:16:26,420 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 12:16:31,722 [DEBUG] [MainThread] [MediaWidget/media.py:486]: Unknown source app in session: 'Vivaldi.5P74BT2MEHOXIITCD6QJGKYIEY' - consider adding to source_apps.py
+2026-03-17 12:18:03,277 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 12:18:03,278 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 12:18:03,278 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 12:18:03,278 [ERROR] [MainThread] [root/main.py:75]: Another instance of the YASB is already running.
+2026-03-17 12:18:16,657 [INFO] [MainThread] [root/utilities.py:400]: YASB added to startup
+2026-03-17 12:18:23,611 [INFO] [CLIPipeServer] [cli_server/cli_server.py:256]: CLI server received command: stop
+2026-03-17 12:18:23,611 [INFO] [CLIPipeServer] [root/controller.py:37]: Exiting Application from CLI...
+2026-03-17 12:18:23,713 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 12:18:23,713 [DEBUG] [CLIPipeServer] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 12:18:23,824 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping SystemEventListener...
+2026-03-17 12:18:23,824 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-17 12:18:23,824 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-17 12:18:24,802 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 12:18:24,803 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 12:18:24,803 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 12:18:24,824 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 12:18:24,824 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 12:18:24,882 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 12:18:24,882 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 12:18:25,211 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 12:18:25,242 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 12:18:25,848 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 12:18:26,010 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 12:18:26,010 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 12:18:26,042 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 12:21:15,712 [INFO] [CLIPipeServer] [cli_server/cli_server.py:256]: CLI server received command: stop
+2026-03-17 12:21:15,712 [INFO] [CLIPipeServer] [root/controller.py:37]: Exiting Application from CLI...
+2026-03-17 12:21:15,813 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 12:21:15,813 [DEBUG] [CLIPipeServer] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 12:21:15,916 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 12:21:16,620 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 12:21:16,620 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 12:21:16,620 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 12:21:16,645 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 12:21:16,645 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 12:21:16,708 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 12:21:16,708 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 12:21:16,963 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 12:21:16,998 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 12:21:17,610 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 12:21:17,761 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 12:21:17,761 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 12:21:17,788 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 12:22:18,669 [INFO] [CLIPipeServer] [cli_server/cli_server.py:256]: CLI server received command: stop
+2026-03-17 12:22:18,669 [INFO] [CLIPipeServer] [root/controller.py:37]: Exiting Application from CLI...
+2026-03-17 12:22:18,771 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 12:22:18,771 [DEBUG] [CLIPipeServer] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 12:22:18,867 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 12:22:19,550 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 12:22:19,551 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 12:22:19,551 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 12:22:19,574 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 12:22:19,575 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 12:22:19,633 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 12:22:19,633 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 12:22:19,884 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 12:22:19,917 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 12:22:20,522 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 12:22:20,692 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 12:22:20,692 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 12:22:20,722 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 12:22:35,507 [DEBUG] [MainThread] [MediaWidget/media.py:486]: Unknown source app in session: 'Vivaldi.5P74BT2MEHOXIITCD6QJGKYIEY' - consider adding to source_apps.py
+2026-03-17 12:22:45,186 [INFO] [MainThread] [root/controller.py:37]: Exiting Application from tray...
+2026-03-17 12:22:45,286 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 12:22:45,286 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 12:22:45,370 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 12:22:49,558 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 12:22:49,558 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 12:22:49,558 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 12:22:49,579 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 12:22:49,579 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 12:22:49,637 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 12:22:49,637 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 12:22:49,869 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 12:22:49,910 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 12:22:50,505 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 12:22:50,655 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 12:22:50,656 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 12:22:50,684 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 12:22:56,941 [INFO] [CLIPipeServer] [cli_server/cli_server.py:256]: CLI server received command: stop
+2026-03-17 12:22:56,941 [INFO] [CLIPipeServer] [root/controller.py:37]: Exiting Application from CLI...
+2026-03-17 12:22:56,973 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 12:22:56,989 [DEBUG] [Thread-9] [root/watcher.py:84]: Stylesheet modified: c:\users\executable\.config\yasb\styles.css
+2026-03-17 12:22:57,041 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 12:22:57,041 [DEBUG] [CLIPipeServer] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 12:22:57,130 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 12:22:57,478 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 12:22:57,478 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 12:22:57,478 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 12:22:57,505 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 12:22:57,505 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 12:22:57,570 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 12:22:57,570 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 12:22:57,828 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 12:22:57,858 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 12:22:58,448 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 12:22:58,602 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 12:22:58,602 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 12:22:58,633 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 12:23:00,722 [INFO] [CLIPipeServer] [cli_server/cli_server.py:256]: CLI server received command: stop
+2026-03-17 12:23:00,722 [INFO] [CLIPipeServer] [root/controller.py:37]: Exiting Application from CLI...
+2026-03-17 12:23:00,823 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 12:23:00,824 [DEBUG] [CLIPipeServer] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 12:23:00,906 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 12:23:01,645 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 12:23:01,645 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 12:23:01,645 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 12:23:01,668 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 12:23:01,669 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 12:23:01,728 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 12:23:01,728 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 12:23:01,987 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 12:23:02,019 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 12:23:02,648 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 12:23:02,799 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 12:23:02,799 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 12:23:02,829 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 12:28:25,190 [INFO] [CLIPipeServer] [cli_server/cli_server.py:256]: CLI server received command: stop
+2026-03-17 12:28:25,190 [INFO] [CLIPipeServer] [root/controller.py:37]: Exiting Application from CLI...
+2026-03-17 12:28:25,291 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 12:28:25,291 [DEBUG] [CLIPipeServer] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 12:28:25,571 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 12:28:26,364 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 12:28:26,365 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 12:28:26,365 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 12:28:26,389 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 12:28:26,389 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 12:28:26,453 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 12:28:26,454 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 12:28:26,720 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 12:28:26,750 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 12:28:27,428 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 12:28:27,595 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 12:28:27,595 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 12:28:27,626 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 12:28:32,150 [INFO] [CLIPipeServer] [cli_server/cli_server.py:256]: CLI server received command: stop
+2026-03-17 12:28:32,150 [INFO] [CLIPipeServer] [root/controller.py:37]: Exiting Application from CLI...
+2026-03-17 12:28:32,251 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 12:28:32,251 [DEBUG] [CLIPipeServer] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 12:28:32,454 [DEBUG] [Thread-9] [root/watcher.py:84]: Stylesheet modified: c:\users\executable\.config\yasb\styles.css
+2026-03-17 12:28:32,561 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 12:28:33,030 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 12:28:33,031 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 12:28:33,031 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 12:28:33,031 [ERROR] [MainThread] [root/main.py:75]: Another instance of the YASB is already running.
+2026-03-17 12:28:33,075 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 12:33:11,343 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 12:33:11,344 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 12:33:11,344 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 12:33:11,489 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 12:33:11,491 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 12:33:11,615 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 12:33:11,616 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 12:33:12,274 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 12:33:12,318 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 12:33:13,071 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 12:33:13,169 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 12:33:13,169 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 12:33:13,459 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 12:38:14,735 [INFO] [CLIPipeServer] [cli_server/cli_server.py:256]: CLI server received command: stop
+2026-03-17 12:38:14,735 [INFO] [CLIPipeServer] [root/controller.py:37]: Exiting Application from CLI...
+2026-03-17 12:38:14,765 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 12:38:14,780 [DEBUG] [Thread-9] [root/watcher.py:84]: Stylesheet modified: c:\users\executable\.config\yasb\styles.css
+2026-03-17 12:38:14,841 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 12:38:14,841 [DEBUG] [CLIPipeServer] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 12:38:14,939 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 12:38:15,412 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 12:38:15,413 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 12:38:15,413 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 12:38:15,426 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 12:38:15,427 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 12:38:15,509 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 12:38:15,510 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 12:38:15,999 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 12:38:16,032 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 12:38:16,467 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 12:38:16,613 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 12:38:16,613 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 12:38:16,639 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 12:40:21,595 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:16:31,789 [DEBUG] [MainThread] [MediaWidget/media.py:486]: Unknown source app in session: 'Vivaldi.5P74BT2MEHOXIITCD6QJGKYIEY' - consider adding to source_apps.py
+2026-03-17 13:17:46,370 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:17:46,386 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-17 13:17:46,487 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 13:17:46,487 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 13:17:46,492 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-17 13:17:46,921 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 13:17:47,268 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 13:17:47,269 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 13:17:47,269 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 13:17:47,269 [INFO] [MainThread] [root/main.py:46]: Waiting for previous YASB instance to exit...
+2026-03-17 13:17:49,022 [INFO] [MainThread] [root/main.py:72]: Previous instance exited, continuing startup.
+2026-03-17 13:17:49,038 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 13:17:49,038 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 13:17:49,133 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 13:17:49,133 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 13:17:49,705 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 13:17:49,737 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 13:17:50,394 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 13:17:50,620 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 13:17:50,620 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 13:17:50,666 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 13:32:33,678 [DEBUG] [Thread-9] [root/watcher.py:84]: Stylesheet modified: c:\users\executable\.config\yasb\styles.css
+2026-03-17 13:43:14,380 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:43:14,397 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-17 13:43:14,510 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 13:43:14,510 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 13:43:14,514 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-17 13:43:14,664 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 13:43:15,051 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 13:43:15,051 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 13:43:15,052 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 13:43:15,052 [INFO] [MainThread] [root/main.py:46]: Waiting for previous YASB instance to exit...
+2026-03-17 13:43:15,303 [INFO] [MainThread] [root/main.py:72]: Previous instance exited, continuing startup.
+2026-03-17 13:43:15,325 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 13:43:15,326 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 13:43:15,411 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 13:43:15,411 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 13:43:15,769 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 13:43:15,803 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 13:43:16,342 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 13:43:16,549 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 13:43:16,549 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 13:43:16,585 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 13:45:17,426 [DEBUG] [MainThread] [root/pin_manager.py:292]: Found shortcut by AUMID: C:\Users\executable\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Vivaldi.lnk
+2026-03-17 13:45:42,426 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:45:42,447 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-17 13:45:42,560 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 13:45:42,560 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 13:45:42,564 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-17 13:45:42,709 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 13:45:42,985 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 13:45:42,986 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 13:45:42,986 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 13:45:43,019 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 13:45:43,020 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 13:45:43,111 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 13:45:43,111 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 13:45:43,512 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 13:45:43,547 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 13:45:43,949 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 3 pinned apps from C:\Users\executable\AppData\Local\YASB\taskbar_pinned.json
+2026-03-17 13:45:44,097 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 13:45:44,307 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 13:45:44,307 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 13:45:44,346 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 13:51:04,117 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:51:04,138 [ERROR] [MainThread] [root/config.py:121]: The config file 'C:\Users\executable\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+  status-bar:
+    alignment:
+      position:
+      - Input should be 'top' or 'bottom'
+
+2026-03-17 13:51:04,377 [ERROR] [MainThread] [root/app_icons.py:282]: GetIconInfo failed: 352782885
+2026-03-17 13:51:19,519 [INFO] [MainThread] [root/controller.py:37]: Exiting Application from tray...
+2026-03-17 13:51:19,626 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 13:51:19,626 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 13:51:19,995 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 13:51:22,298 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 13:51:22,298 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 13:51:22,298 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 13:51:22,321 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 13:51:22,321 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 13:51:22,349 [ERROR] [MainThread] [root/config.py:121]: The config file 'C:\Users\executable\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+  status-bar:
+    alignment:
+      position:
+      - Input should be 'top' or 'bottom'
+
+2026-03-17 13:51:22,350 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-17 13:51:35,895 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 13:51:35,896 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 13:51:35,896 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 13:51:35,915 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 13:51:35,916 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 13:51:35,939 [ERROR] [MainThread] [root/config.py:121]: The config file 'C:\Users\executable\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+  status-bar:
+    alignment:
+      position:
+      - Input should be 'top' or 'bottom'
+
+2026-03-17 13:51:35,940 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-17 13:51:46,503 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 13:51:46,503 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 13:51:46,503 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 13:51:46,521 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 13:51:46,522 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 13:51:46,600 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 13:51:46,600 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 13:51:46,928 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 13:51:46,961 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 13:51:47,372 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 3 pinned apps from C:\Users\executable\AppData\Local\YASB\taskbar_pinned.json
+2026-03-17 13:51:47,512 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 13:51:47,726 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 13:51:47,726 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 13:51:47,756 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 13:51:55,945 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:51:55,963 [ERROR] [MainThread] [root/config.py:121]: The config file 'C:\Users\executable\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+  status-bar:
+    alignment:
+      position:
+      - Input should be 'top' or 'bottom'
+
+2026-03-17 13:51:56,185 [ERROR] [MainThread] [root/app_icons.py:282]: GetIconInfo failed: 81398217
+2026-03-17 13:52:10,438 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:53:15,831 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:53:15,848 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-17 13:53:15,950 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 13:53:15,951 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 13:53:15,954 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-17 13:53:16,290 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 13:53:16,374 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 13:53:16,374 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 13:53:16,375 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 13:53:16,375 [INFO] [MainThread] [root/main.py:46]: Waiting for previous YASB instance to exit...
+2026-03-17 13:53:16,625 [INFO] [MainThread] [root/main.py:72]: Previous instance exited, continuing startup.
+2026-03-17 13:53:16,645 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 13:53:16,645 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 13:53:16,717 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 13:53:16,717 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 13:53:17,068 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 13:53:17,100 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 13:53:17,535 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 3 pinned apps from C:\Users\executable\AppData\Local\YASB\taskbar_pinned.json
+2026-03-17 13:53:17,671 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 13:53:17,865 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 13:53:17,865 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 13:53:17,903 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 13:55:15,174 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:55:15,177 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\executable\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\executable\.config\yasb\config.yaml", line 47, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\executable\.config\yasb\config.yaml", line 57, column 11
+2026-03-17 13:55:24,673 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:55:24,686 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:55:24,686 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\executable\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\executable\.config\yasb\config.yaml", line 47, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\executable\.config\yasb\config.yaml", line 57, column 11
+2026-03-17 13:55:24,688 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\executable\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\executable\.config\yasb\config.yaml", line 47, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\executable\.config\yasb\config.yaml", line 57, column 11
+2026-03-17 13:55:29,925 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:55:29,927 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\executable\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\executable\.config\yasb\config.yaml", line 47, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\executable\.config\yasb\config.yaml", line 57, column 11
+2026-03-17 13:56:50,082 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:56:50,105 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-17 13:56:50,208 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 13:56:50,208 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 13:56:50,212 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-17 13:56:50,568 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 13:56:50,683 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 13:56:50,684 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 13:56:50,684 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 13:56:50,684 [INFO] [MainThread] [root/main.py:46]: Waiting for previous YASB instance to exit...
+2026-03-17 13:56:50,935 [INFO] [MainThread] [root/main.py:72]: Previous instance exited, continuing startup.
+2026-03-17 13:56:50,961 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 13:56:50,961 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 13:56:51,033 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 13:56:51,033 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 13:56:51,184 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 13:56:51,227 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 13:56:51,869 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 3 pinned apps from C:\Users\executable\AppData\Local\YASB\taskbar_pinned.json
+2026-03-17 13:56:51,974 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 13:56:52,164 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 13:56:52,165 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 13:56:52,207 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 13:57:53,377 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:57:53,394 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-17 13:57:53,497 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 13:57:53,497 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 13:57:53,501 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-17 13:57:53,842 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 13:57:53,936 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 13:57:53,936 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 13:57:53,937 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 13:57:53,937 [INFO] [MainThread] [root/main.py:46]: Waiting for previous YASB instance to exit...
+2026-03-17 13:57:54,187 [INFO] [MainThread] [root/main.py:72]: Previous instance exited, continuing startup.
+2026-03-17 13:57:54,207 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 13:57:54,208 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 13:57:54,276 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 13:57:54,277 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 13:57:54,416 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 13:57:54,458 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 13:57:55,063 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 3 pinned apps from C:\Users\executable\AppData\Local\YASB\taskbar_pinned.json
+2026-03-17 13:57:55,186 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 13:57:55,395 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 13:57:55,395 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 13:57:55,438 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 13:59:57,620 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 13:59:57,637 [ERROR] [MainThread] [root/config.py:121]: The config file 'C:\Users\executable\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+  status-bar:
+    valign:
+    - Extra inputs are not permitted
+
+2026-03-17 13:59:57,869 [ERROR] [MainThread] [root/app_icons.py:282]: GetIconInfo failed: 76680151
+2026-03-17 14:00:03,251 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 14:00:03,267 [ERROR] [MainThread] [root/config.py:121]: The config file 'C:\Users\executable\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+  status-bar:
+    alignment:
+      valign:
+      - Extra inputs are not permitted
+
+2026-03-17 14:00:03,397 [ERROR] [MainThread] [root/app_icons.py:282]: GetIconInfo failed: 83756177
+2026-03-17 14:00:07,854 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 14:03:14,977 [DEBUG] [Thread-9] [root/watcher.py:84]: Stylesheet modified: c:\users\executable\.config\yasb\styles.css
+2026-03-17 14:03:21,906 [DEBUG] [Thread-9] [root/watcher.py:84]: Stylesheet modified: c:\users\executable\.config\yasb\styles.css
+2026-03-17 14:06:37,455 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 14:06:37,471 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-17 14:06:37,583 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 14:06:37,584 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 14:06:37,587 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-17 14:06:37,918 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 14:06:37,965 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 14:06:37,965 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 14:06:37,966 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 14:06:37,966 [INFO] [MainThread] [root/main.py:46]: Waiting for previous YASB instance to exit...
+2026-03-17 14:06:38,216 [INFO] [MainThread] [root/main.py:72]: Previous instance exited, continuing startup.
+2026-03-17 14:06:38,236 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 14:06:38,236 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 14:06:38,306 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 14:06:38,306 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 14:06:38,442 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 14:06:38,480 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 14:06:39,160 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 3 pinned apps from C:\Users\executable\AppData\Local\YASB\taskbar_pinned.json
+2026-03-17 14:06:39,324 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 14:06:39,532 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 14:06:39,532 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 14:06:39,568 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 14:08:15,408 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 14:08:15,426 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-17 14:08:15,539 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-17 14:08:15,539 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-17 14:08:15,543 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-17 14:08:15,861 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-17 14:08:15,895 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-17 14:08:15,896 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-17 14:08:15,896 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-17 14:08:15,896 [INFO] [MainThread] [root/main.py:46]: Waiting for previous YASB instance to exit...
+2026-03-17 14:08:16,147 [INFO] [MainThread] [root/main.py:72]: Previous instance exited, continuing startup.
+2026-03-17 14:08:16,166 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-17 14:08:16,167 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-17 14:08:16,231 [DEBUG] [MainThread] [pyvda.build/build.py:53]: Starting feature detection...
+2026-03-17 14:08:16,231 [DEBUG] [MainThread] [pyvda.build/build.py:57]: Feature detection complete. Windows version is over 26100
+2026-03-17 14:08:16,386 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-17 14:08:16,422 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-17 14:08:17,063 [DEBUG] [MainThread] [root/pin_manager.py:163]: Loaded 3 pinned apps from C:\Users\executable\AppData\Local\YASB\taskbar_pinned.json
+2026-03-17 14:08:17,256 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-17 14:08:17,493 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\executable\.config\yasb
+2026-03-17 14:08:17,493 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-17 14:08:17,532 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-17 14:12:24,774 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
+2026-03-17 14:12:24,790 [ERROR] [MainThread] [root/config.py:121]: The config file 'C:\Users\executable\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+  volume:
+    str:
+    - Input should be a valid string
+    dict[str,any]:
+    - Input should be a valid dictionary
+
+2026-03-17 14:12:25,001 [ERROR] [MainThread] [root/app_icons.py:282]: GetIconInfo failed: 411765443
+2026-03-17 14:12:34,503 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\executable\.config\yasb\config.yaml
