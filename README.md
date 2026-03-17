@@ -10,6 +10,6 @@ enjoy my taskbar
 
 by executable
 
-tg - executable
+tg - executablee
 
 discord - executab1e
